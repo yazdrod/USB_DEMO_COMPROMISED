@@ -2,4 +2,4 @@
 ## Protect your data... It could be you next time and REAL
 
 - Download the repository.
-- Launch
+- Launch the `main.bat`
